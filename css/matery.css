@@ -369,13 +369,13 @@ header .side-nav .menu-list li {
 header .side-nav .menu-list a {
     height: 50px;
     line-height: 50px;
-    color: #33ff99 !important;
+    color: #34495e !important;
 }
 
 .mobile-menu-list a i {
     margin-left: 8px !important;
     font-size: 1.16rem;
-    color: #33ff99 !important;
+    color: #ff66cc !important;
 }
 
 header .side-nav .fa-fw {
@@ -1836,15 +1836,15 @@ footer .copy-right {
 .top-scroll {
     display: none;
     position: fixed;
-    right: 15px;
-    bottom: 15px;
+    right: 4px;
+    bottom: 17px;
     padding-top: 15px;
     margin-bottom: 0;
     z-index: 998;
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%);
+    background: linear-gradient(to bottom right, #ff66cc 0%, #00ffff 100%);
     width: 48px;
     height: 48px;
 }
