@@ -660,7 +660,7 @@ header .go-back i {
 
 .music,
 .dplayer-video {
-    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .7), 0 10px 20px -12px rgba(0, 0, 0, .5) !important;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 10px 20px -12px rgba(0, 0, 0, .5) !important;
 }
 
 #recommend-sections {
@@ -2081,3 +2081,6 @@ footer .copy-right {
     padding: 0px;
     margin: 0px;
 }
+
+a :hover  {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/cursor.ico) , pointer ;}
+body {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/cursor.ico) , default;  }
