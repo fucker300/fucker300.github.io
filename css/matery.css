@@ -268,7 +268,8 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #3399ff 0%, #3399ff 100%);
+    background-image: linear-gradient(to right, #FF90A3 0%, #00FFCB 100%);
+	background:background:#00FFCB;;
 }
 
 .text-color {
@@ -284,8 +285,8 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-    opacity: 0.8;
+    background: linear-gradient(to right, #99ffff 0%, #0099ff 100%);
+    opacity: 0.9;
 }
 
 .sidenav-overlay {
@@ -368,13 +369,13 @@ header .side-nav .menu-list li {
 header .side-nav .menu-list a {
     height: 50px;
     line-height: 50px;
-    color: #34495e !important;
+    color: #33ff99 !important;
 }
 
 .mobile-menu-list a i {
     margin-left: 8px !important;
     font-size: 1.16rem;
-    color: #34495e !important;
+    color: #33ff99 !important;
 }
 
 header .side-nav .fa-fw {
