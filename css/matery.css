@@ -2083,6 +2083,18 @@ footer .copy-right {
     margin: 0px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/*鼠标样式*/
 a :hover  {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/cursor.ico) , pointer ;}
 body {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/cursor.ico) , default;  }
 
@@ -2098,14 +2110,14 @@ body {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/imag
 /* 滚动条自定义正常情况下滑块的样式 */
 ::-webkit-scrollbar-thumb {
   background-color: rgba(255, 96, 124, .5);
-  border-radius: 2px;
+  border-radius: 200px;
   -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, .1);
 }
  
 /* 鼠标悬浮在该类指向的控件上时滑块的样式 */
 :hover::-webkit-scrollbar-thumb {
   background-color: rgba(0, 255, 203, .2);
-  border-radius: 2px;
+  border-radius: 200px;
   -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, .1);
 }
  
@@ -2117,7 +2129,7 @@ body {  cursor : url( https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/imag
  
 /* 正常时候的主干部分 */
 ::-webkit-scrollbar-track {
-  border-radius: 2px;
+  border-radius: 200px;
   -webkit-box-shadow: inset 0 0 6px rgba(255, 144, 163, 0);
   background-color: inherit;
 }
