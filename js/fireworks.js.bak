@@ -122,7 +122,7 @@ function updateCoords(e){
 											pointerX=0,
 											pointerY=0,
 											tap="mousedown",
-											colors=["#c5c5ed","#f694a5","#19f5c7","#fbfefe"],
+											colors=["#e1fbfc","#1ab6e1","#2230ae","#010174"],
 											setCanvasSize=debounce(function(){
 												canvasEl.width=2*window.innerWidth,
 												canvasEl.height=2*window.innerHeight,
